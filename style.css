@@ -1,4 +1,10 @@
+/* Overflow */
 
+.Overflow_x_hidden{
+    overflow-x: hidden;
+}
+
+/* Reviews Star Css */
 .review-star ul{
     display: flex;
     justify-content: center;
@@ -10,16 +16,19 @@
     list-style: none;
 }
 
-/* .review-star ul li i{
-    color: orangered;
-} */
+
 .fill{
     color: orangered;
 }
 .no-fill{
     color: gray;
 }
+
+
 /* Fetured Bikes 2021 Part GrayScale */
-.grayscale img{
+
+
+.grayscale img:hover{
     filter: grayscale(100);
 }
+
