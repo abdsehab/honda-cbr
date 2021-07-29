@@ -1,3 +1,9 @@
+.round10px{
+    border-radius: 200px;
+}
+
+
+
 /* Fetured Bikes 2021 Part GrayScale */
 .grayscale img{
     filter: grayscale(100);
